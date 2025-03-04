@@ -16,6 +16,8 @@ sdk地址：https://github.com/SHARJECK/VoicePlus
 
 2.安装该插件apk
 
+确保服务进程 svciflybl 存在
+
 3.安装AI智能管家
 
 夏杰语音辅助权限插件，可以辅助开启软件状态权限和默认输入法，部分语音功能需要该插件。
